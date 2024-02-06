@@ -9,10 +9,24 @@
 - Разбронировать/забронировать желание
 ## Скриншоты:
 ### Широкий формат:
-![Вишлист скриншот широкий](https://i.ibb.co/BZZ2PM4/image.png 'Вишлист скриншот широкий')
-### Ширина < 910px:
-![Вишлист скриншот sub910](https://i.ibb.co/wQjMyVw/localhost-3000-i-Pad-Air.png 'Вишлист скриншот широкий')
-### Мобильная версия:
-![Вишлист скриншот mobile](https://i.ibb.co/7G04xYC/i-Phone-14-Pro-Dark.png 'Вишлист скриншот mobile')
+<img src="https://i.ibb.co/BZZ2PM4/image.png" width="500">
 
-![Uploading 2024-02-07 01-14-54 (2) (1).gif…]()
+### Ширина < 910px:
+<img src="https://i.ibb.co/wQjMyVw/localhost-3000-i-Pad-Air.png" width="500">
+
+### Мобильная версия:
+<img src="https://i.ibb.co/7G04xYC/i-Phone-14-Pro-Dark.png" width="250">
+
+## Установка
+Скопируйте репозиторий проекта командой:
+```sh
+$ git clone https://github.com/AbShamilDev/WishListLanding.git
+```
+Установите все зависимости командой:
+```sh
+$ npm i 
+```
+Запустите проект командой:
+```sh
+$ npm start 
+```
